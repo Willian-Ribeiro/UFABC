@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1371188359 source:c:\users\will\desktop\algoritmos e estrutura de dados\sorts\shellsort\shellsort\main.cpp
+	<cstdlib>
+	<iostream>
+	<time.h>
+	"ShellSort.hpp"
+
+1371181706 c:\users\will\desktop\algoritmos e estrutura de dados\sorts\shellsort\shellsort\insertsort.hpp
+
+1371188263 c:\users\will\desktop\algoritmos e estrutura de dados\sorts\shellsort\shellsort\shellsort.hpp
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1369713698 source:c:\users\will\desktop\algoritmos e estrutura de dados\bubble sort\bubblesort\bubblesort.cpp
+
+1369764960 source:c:\users\will\desktop\algoritmos e estrutura de dados\bubble sort\bubblesort\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"BubbleSort.h"
+
+1369764991 c:\users\will\desktop\algoritmos e estrutura de dados\bubble sort\bubblesort\bubblesort.h
+
+1370392830 source:c:\users\will\desktop\algoritmos e estrutura de dados\sorts\bubble sort\bubblesort\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"BubbleSort.h"
+
+1370987635 c:\users\will\desktop\algoritmos e estrutura de dados\sorts\bubble sort\bubblesort\bubblesort.h
+

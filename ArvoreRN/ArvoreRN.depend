@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1380141536 source:c:\users\will\desktop\algoritmos e estruturas de dados ii\arvorern\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreRN.h"
+
+1379441690 c:\users\will\desktop\algoritmos e estruturas de dados ii\arvorern\arvorern.h
+

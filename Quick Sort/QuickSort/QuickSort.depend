@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1370626348 source:c:\users\will\desktop\algoritmos e estrutura de dados\sorts\quick sort\quicksort\main.cpp
+	<cstdlib>
+	<iostream>
+	<time.h>
+	"QuickSort.hpp"
+
+1370389666 c:\users\will\desktop\algoritmos e estrutura de dados\sorts\quick sort\quicksort\quicksort.hpp
+	<time.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1370392935 source:c:\users\will\desktop\algoritmos e estrutura de dados\sorts\select sort\selectsort\main.cpp
+	<cstdlib>
+	<iostream>
+	<time.h>
+	"SelectSort.hpp"
+
+1369857522 c:\users\will\desktop\algoritmos e estrutura de dados\sorts\select sort\selectsort\selectsort.hpp
+

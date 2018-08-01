@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1380768109 source:c:\users\will\desktop\algoritmos e estruturas de dados ii\hashtrie\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+	"Hash.hpp"
+
+1380740434 c:\users\will\desktop\algoritmos e estruturas de dados ii\hashtrie\hash.hpp
+	<stdlib.h>
+	<string.h>
+

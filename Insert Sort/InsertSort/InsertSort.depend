@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1370393013 source:c:\users\will\desktop\algoritmos e estrutura de dados\sorts\insert sort\insertsort\main.cpp
+	<cstdlib>
+	<iostream>
+	<time.h>
+	"InsertSort.hpp"
+
+1370392469 c:\users\will\desktop\algoritmos e estrutura de dados\sorts\insert sort\insertsort\insertsort.hpp
+

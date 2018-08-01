@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1371127757 source:c:\users\will\desktop\algoritmos e estrutura de dados\sorts\verificador de ordem\verificadordeordem\main.cpp
+	<cstdlib>
+	<iostream>
+	<time.h>
+	"VerificadorDeOrdem.hpp"
+
+1371127731 c:\users\will\desktop\algoritmos e estrutura de dados\sorts\verificador de ordem\verificadordeordem\verificadordeordem.hpp
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1369769625 source:c:\users\will\desktop\algoritmos e estrutura de dados\sorts\heap sort\heapsort.cpp
+
+1371166058 source:c:\users\will\desktop\algoritmos e estrutura de dados\sorts\heap sort\main.cpp
+	<cstdlib>
+	<iostream>
+	<time.h>
+	"HeapSort.hpp"
+	"VerificadorDeOrdem.hpp"
+
+1371166085 c:\users\will\desktop\algoritmos e estrutura de dados\sorts\heap sort\heapsort.hpp
+
+1371155620 c:\users\will\desktop\algoritmos e estrutura de dados\sorts\heap sort\verificadordeordem.hpp
+

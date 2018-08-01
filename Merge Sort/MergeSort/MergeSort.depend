@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1371571611 source:c:\users\will\desktop\algoritmos e estrutura de dados\sorts\merge sort\mergesort\main.cpp
+	<cstdlib>
+	<iostream>
+	<time.h>
+	"MergeSort.hpp"
+	"VerificadorDeOrdem.hpp"
+
+1371571806 c:\users\will\desktop\algoritmos e estrutura de dados\sorts\merge sort\mergesort\mergesort.hpp
+
+1370990834 c:\users\will\desktop\algoritmos e estrutura de dados\sorts\merge sort\mergesort\verificadordeordem.hpp
+
